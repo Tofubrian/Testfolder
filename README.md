@@ -1,2 +1,2 @@
 # Testfolder
-Thisi s simple testing
+This is simple testing of upload and download
